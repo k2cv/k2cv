@@ -33,36 +33,29 @@ Right now I am part of the Soar team where I handle the security side of what we
 ## Security Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Parrot_OS-111111?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ghidra-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-111111?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite,wireshark" alt="Burp Suite and Wireshark" />
+  <img src="icons/metasploit.svg" width="48" alt="Metasploit" />
+  <img src="icons/nmap.svg" width="48" alt="Nmap" />
+  <img src="icons/ghidra.svg" width="48" alt="Ghidra" />
+  <img src="icons/owasp.svg" width="48" alt="OWASP" />
 </p>
 
 ## Platforms
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Hack_The_Box-111111?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=hackthebox,tryhackme" alt="Hack The Box and TryHackMe" />
 </p>
 
 ## Environment
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Parrot_OS-111111?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="icons/parrot.svg" width="48" alt="Parrot OS" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode&theme=dark" />
 </p>
 
 ## What I Work With
 
-I write Python for most of my scripts, automation, and exploit work, along with Bash and PowerShell for system-level scripting and tasks
+I write Python for most of my scripts and automation and exploit work along with Bash and PowerShell for system level scripting and tasks
 
 On the security side I live in Parrot OS and use Nmap for scanning and recon and Burp Suite for testing web apps and Wireshark to read what is going on in the network and Metasploit for exploitation in labs and Ghidra for reverse engineering and I follow OWASP when testing anything on the web
 
