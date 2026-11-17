@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/k2cv">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Cyber+Security+Enthusiast;Breaking+things+to+make+them+safer;JavaScript+%7C+Python+%7C+C%2B%2B+%7C+Rust" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Cyber+Security+Enthusiast;Breaking+things+to+make+them+safer;Python+%7C+Bash+%7C+PowerShell" />
   </a>
 </p>
 
@@ -27,13 +27,13 @@ Right now I am part of the Soar team where I handle the security side of what we
 ## Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,cpp,rust,bash,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,bash,powershell&theme=dark" />
 </p>
 
 ## Security Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot_OS-111111?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white" />
@@ -52,14 +52,15 @@ Right now I am part of the Soar team where I handle the security side of what we
 ## Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,git,github,docker,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/Parrot_OS-2b2f36?style=for-the-badge&logo=parrotsecurity&logoColor=55DDFF" />
 </p>
 
 ## What I Work With
 
-I write JavaScript for web stuff and browser side testing and Python for most of my scripts and automation and exploit work and C++ when I need to get close to the system and Rust when I want speed with safe memory
+I write Python for most of my scripts, automation, and exploit work, along with Bash and PowerShell for system-level scripting and tasks
 
-On the security side I live in Kali Linux and use Nmap for scanning and recon and Burp Suite for testing web apps and Wireshark to read what is going on in the network and Metasploit for exploitation in labs and Ghidra for reverse engineering and I follow OWASP when testing anything on the web
+On the security side I live in Parrot OS and use Nmap for scanning and recon and Burp Suite for testing web apps and Wireshark to read what is going on in the network and Metasploit for exploitation in labs and Ghidra for reverse engineering and I follow OWASP when testing anything on the web
 
 I train on Hack The Box and TryHackMe and solve CTF challenges to keep my skills sharp
 
@@ -68,5 +69,4 @@ If you want to talk about security or work on something together feel free to re
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:0d0d0d&height=120&section=footer" width="100%" />
-</p>
+  <img src="
