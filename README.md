@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/k2cv"><img src="https://img.shields.io/badge/zeroday-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="k2cv" /></a>
+  <a href="https://soar-team.xyz/"><img src="https://img.shields.io/badge/Website-soar--team.xyz-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/k2cv?tab=followers"><img src="https://img.shields.io/github/followers/k2cv?style=for-the-badge&logo=github&label=Followers&color=111111" alt="Followers" /></a>
 </p>
 
@@ -20,6 +21,8 @@ Hey I am into cyber security and programming and I spend most of my time figurin
 I got into security because I was curious about what happens behind the screen and that curiosity turned into learning networks and Linux and web security and reverse engineering I like finding weak spots before someone else does and then building tools that make the job faster
 
 Most of my time goes into CTF challenges and labs and writing scripts and tools for testing and automation and I keep learning something new every week
+
+Right now I am part of the Soar team where I handle the security side of what we build
 
 ## Languages
 
@@ -61,7 +64,7 @@ On the security side I live in Kali Linux and use Nmap for scanning and recon an
 I train on Hack The Box and TryHackMe and solve CTF challenges to keep my skills sharp
 
 <p align="center">
-If you want to talk about security or work on something together feel free to reach out
+If you want to talk about security or work on something together feel free to reach out through the website
 </p>
 
 <p align="center">
