@@ -52,8 +52,12 @@ Right now I am part of the Soar team where I handle the security side of what we
 ## Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode&theme=dark" />
-  <img src="https://img.shields.io/badge/Parrot_OS-2b2f36?style=for-the-badge&logo=parrotsecurity&logoColor=55DDFF" />
+  <img src="https://img.shields.io/badge/Parrot_OS-111111?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ## What I Work With
@@ -69,4 +73,5 @@ If you want to talk about security or work on something together feel free to re
 </p>
 
 <p align="center">
-  <img src="
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:0d0d0d&height=120&section=footer" width="100%" />
+</p>
